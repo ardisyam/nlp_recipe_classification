@@ -1,3 +1,8 @@
+https://github.com/ardisyam/nlp_recipe_classification.git
+
+Install
+pip install recipe_scrapers
+
 How to run the programs
 1. Run scrapeOnlineRecipes.ipynb
 2. Run generateIngrTags.ipynb
